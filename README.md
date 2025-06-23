@@ -20,8 +20,8 @@
 
 ## 软件截图
 
-<img src="png/截图1.png" width="580" />
-<img src="png/截图2.png" width="580" />
+<img src="img/截图1.png" width="580" />
+<img src="img/截图2.png" width="580" />
 
 
 ---
@@ -52,13 +52,13 @@
   <table>
     <tr>
       <td>
-        <img src="./png/pay2.png" alt="wechat_pay" width="200"/><br>
+        <img src="./img/pay2.png" alt="wechat_pay" width="200"/><br>
       </td>
       <td>
-        <img src="./png/pay1.png" alt="alipay" width="200"/><br>
+        <img src="./img/pay1.png" alt="alipay" width="200"/><br>
       </td>
       <td>
-        <img src="./png/chat.jpg" alt="alipay" width="200"/><br>
+        <img src="./img/chat.jpg" alt="alipay" width="200"/><br>
       </td>
     </tr>
   </table>
