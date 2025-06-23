@@ -11,11 +11,10 @@ resources/chrome_profile_for_cursor_login
 src/main/*
 src/preload/*
 src/script/*
-out/main/*
-out/preload/*
 resources/*
 
-utils/api-main.js
-utils/client-license.js
-utils/const-config.js
+
+src/utils/api-main.js
+src/utils/client-license.js
+src/utils/const-config.js
 
