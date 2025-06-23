@@ -1,0 +1,16 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+.specstory/
+release
+resources/chrome_profile_for_cursor_login
+
+src/main/*
+src/preload/*
+src/script/*
+out/main/*
+out/preload/*
+resources/*
