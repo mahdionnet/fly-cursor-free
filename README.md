@@ -23,6 +23,9 @@
 <img src="img/截图1.png" width="680" />
 <img src="img/截图2.png" width="680" />
 
+---
+
+ 软件下载地址&nbsp;&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘(免登录)](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
 
 ---
 
