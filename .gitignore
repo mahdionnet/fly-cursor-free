@@ -14,3 +14,8 @@ src/script/*
 out/main/*
 out/preload/*
 resources/*
+
+utils/api-main.js
+utils/client-license.js
+utils/const-config.js
+
