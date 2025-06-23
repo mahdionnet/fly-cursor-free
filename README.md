@@ -1,7 +1,7 @@
 
 
-#### FlyCursor 是一款Cursor的免费账号辅助工具。
-#### 用于无限续杯Cursor试用Pro，维持15天试用不掉，无限次数高级模型。
+### FlyCursor 是一款Cursor的免费账号辅助工具。
+### 用于无限续杯Cursor试用Pro，维持15天试用不掉，无限次数高级模型。
 
 
 
@@ -20,7 +20,8 @@
 
 ## 软件截图
 
-<img src="png/截图1.png" width="48%" /> <img src="png/截图2.png" width="48%" />
+<img src="png/截图1.png" width="580" />
+<img src="png/截图2.png" width="580" />
 
 
 ---
