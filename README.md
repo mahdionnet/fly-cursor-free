@@ -7,6 +7,7 @@
 
 > - 支持最新版 `Cursor 1.2.1`
 > - 暂时只支持 `Windows` 操作系统
+> - [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
 
 ### 核心功能
 
