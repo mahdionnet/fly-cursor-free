@@ -36,8 +36,6 @@
         "@swc/core": "^1.12.5",
         "@vitejs/plugin-vue": "^5.2.3",
         "chokidar": "^4.0.3",
-        "electron": "^35.1.5",
-        "electron-builder": "^25.1.8",
         "electron-vite": "^3.1.0",
         "eslint": "^9.24.0",
         "eslint-plugin-vue": "^10.0.0",
