@@ -2,9 +2,9 @@
 
 
 > 🚀 **FlyCursor** 让你 _一键续杯_ **Cursor Pro**，**自动注册** 无限账号，无限次数高级模型
-> - 支持最新版 `Cursor 1.2.4`
-> - 暂时只支持 **Windows** 系统
-> - [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
+>  支持最新版 `Cursor 1.2.4`
+>  暂时只支持 **Windows** 系统
+>  [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
 
 ## 核心功能
 * **一键更换账号**：免费账号池，秒级换号，稳定维持 Cursor Pro 15天试用
