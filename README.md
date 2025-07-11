@@ -1,15 +1,14 @@
 # FlyCursor · 一键免费使用Cursor Pro | Free Cursor Pro Trial
 
 
-> 🚀 **FlyCursor** 让你 _一键续杯_ **Cursor Pro**，**自动注册** 无限账号。
-
-- 支持最新版 `Cursor 1.2.4`
-- 暂时只支持 **Windows** 操作系统
-- [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
+> 🚀 **FlyCursor** 让你 _一键续杯_ **Cursor Pro**，**自动注册** 无限账号，无限次数高级模型
+> - 支持最新版 `Cursor 1.2.4`
+> - 暂时只支持 **Windows** 系统
+> - [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
 
 ## 核心功能
 * **一键切换账号**：秒级更换账号，稳定维持 Cursor Pro 15天试用
-* **批量自动注册**：自动注册无限Cursor账号
+* **批量自动注册**：自动注册无限Cursor账号，自动通过人机验证
 * **备份**：支持导入 / 导出，一键备份与恢复 Cursor 使用数据
 
 ## 软件截图
