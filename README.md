@@ -1,23 +1,16 @@
+# FlyCursor · 一键免费使用Cursor Pro | Free Cursor Pro Trial
 
 
-### FlyCursor 是一款Cursor的免费账号辅助工具。
-### 用于无限续杯Cursor试用Pro，15天试用不掉，无限次数高级模型。
+> 🚀 **FlyCursor** 让你 _一键续杯_ **Cursor Pro**，**自动注册** 无限账号。
 
+- 支持最新版 `Cursor 1.2.4`
+- 暂时只支持 **Windows** 操作系统
+- [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
 
-
-> - 支持最新版 `Cursor 1.2.1`
-> - 暂时只支持 `Windows` 操作系统
-> - [使用文档 & 常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
-
-### 核心功能
-
-*   **一键切换账号**：轻松实现账号切换，重置并稳定维持 Cursor Pro 的试用状态。
-
-*   **批量自动注册**：内置自动化脚本，批量注册新账号。
-
-*   **账户管理**：支持导入导出、管理多个 Cursor 账号。
-
-*   **备份**：轻松备份Cursor数据。
+## 核心功能
+* **一键切换账号**：秒级更换账号，稳定维持 Cursor Pro 15天试用
+* **批量自动注册**：自动注册无限Cursor账号
+* **备份**：支持导入 / 导出，一键备份与恢复 Cursor 使用数据
 
 ## 软件截图
 
