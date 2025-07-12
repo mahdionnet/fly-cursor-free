@@ -1,7 +1,7 @@
 # FlyCursor · 一键无限续杯 Cursor Pro | 批量自动注册 | 本地账号+共享账号池 | Free Cursor Pro Trial
 
 
-> 🚀 **FlyCursor** 让你 Cursor Pro试用永不断，无限使用高级模型
+> 🚀 **FlyCursor** 让你 Cursor Pro试用永不断，无限次数高级模型，免费使用
 > - 支持最新版 `Cursor 1.2.4`
 > - 暂时只支持 `Windows` 系统
 > - qq交流群 `1002388537`
