@@ -1,7 +1,7 @@
-# FlyCursor · 一键免费使用Cursor Pro | Free Cursor Pro Trial
+# FlyCursor · 一键无限续杯 Cursor Pro | 批量自动注册 | 本地账号+共享账号池 | Free Cursor Pro Trial
 
 
-> 🚀 **FlyCursor** 让你 _一键续杯_ **Cursor Pro**，**自动注册** 无限账号，无限次数高级模型
+> 🚀 **FlyCursor** 让你 Cursor Pro试用永不断，无限使用高级模型
 > - 支持最新版 `Cursor 1.2.4`
 > - 暂时只支持 `Windows` 系统
 > - qq交流群 `1002388537`
@@ -11,14 +11,14 @@
 * **一键更换账号**：免费账号池，秒级换号，稳定维持 Cursor Pro 15天试用
 * **批量自动注册**：自动注册无限Cursor账号，自动通过人机验证
 
-## 软件截图
+## 截图
 
 <img src="img/截图1.png" width="680" />
 <img src="img/截图2.png" width="680" />
 
 ---
 
- 软件下载地址&nbsp;&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘(免登录)](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
+ 下载地址&nbsp;&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘(免登录)](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
 
 ---
 
