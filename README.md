@@ -11,14 +11,14 @@
 * **一键更换账号**：免费账号池，秒级换号，稳定维持 Cursor Pro 15天试用
 * **批量自动注册**：自动注册无限Cursor账号，自动通过人机验证
 
+
+---
+ 下载地址&nbsp;&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘(免登录)](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
+
 ## 截图
 
 <img src="img/截图1.png" width="680" />
 <img src="img/截图2.png" width="680" />
-
----
-
- 下载地址&nbsp;&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘(免登录)](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
 
 ---
 
