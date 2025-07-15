@@ -26,14 +26,13 @@
 ## 自动注册-配置说明
 
 
-#### 1.接收Cursor验证码的临时邮箱
-
-程序需要一个临时邮箱来接收 Cursor 发送的验证码。您可以前往 [tempmail.plus](https://tempmail.plus) 获取免费的临时邮箱和对应的PIN码。
-
+#### 1.接收 Cursor 验证码的临时邮箱
+- 使用 tempmail 临时邮箱，您可以前往 [tempmail.plus](https://tempmail.plus) 获取免费的临时邮箱和对应的PIN码。
+- 使用支持 IMAP 的个人邮箱，例如qq邮箱。
 
 #### 2.个人域名
 
-需要一个域名，用于生成注册用的无限邮箱地址（例如 `random_string@yourdomain.com`）。
+- 需要一个域名，用于生成注册用的无限邮箱地址（例如 `random_string@yourdomain.com`）。
 建议自己购买域名，[阿里云低价域名3元左右/年](https://wanwang.aliyun.com/domain?spm=5176.30275541.J_ZGek9Blx07Hclc3Ddt9dg.2.6d242f3dOjUe0y&scm=20140722.S_card@@%E4%BA%A7%E5%93%81@@3417315._.ID_card@@%E4%BA%A7%E5%93%81@@3417315-RL_%E5%9F%9F%E5%90%8D-LOC_2024SPSearchCard-OR_ser-PAR1_213e367317506646568403729e0b4e-V_4-RE_new5-P0_0-P1_0)
 
 
