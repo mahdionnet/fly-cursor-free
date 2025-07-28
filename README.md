@@ -8,7 +8,7 @@
 > - Cursor 要求新账户绑定支付宝才能激活试用，建议激活后马上取消订阅，否则试用到期产生扣费
 > - 支持最新版 `Cursor 1.2.4`
 > - qq交流群： [1002388537](https://qun.qq.com/universal-share/share?ac=1&authKey=ZpKpMm4QdN1I2eWzqZYinybEpN1PfyrUlmgA01ZG0mAVSUVg0fWQWngzBnl7jG79&busi_data=eyJncm91cENvZGUiOiIxMDAyMzg4NTM3IiwidG9rZW4iOiJNR0hENmlHS0xHSzdmMm0xRmZSNjJpczdJMWl5WkhrNWI0SHVQOUZhemNuSTcvN0VQNUNSZVZ4Ty9kbU1KSFBWIiwidWluIjoiMzY2Mzg1NjQyOSJ9&data=ghmRHANkTOdaEFfbxNKWtfgZ5emKN2-RQ-FKgFvWnukdfbup51jtrgQKlbPS_2O-0QHYmuRUd7her7DzYjH43A&svctype=4&tempid=h5_group_info)
-> - 使用文档： [使用文档、常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
+> - 使用文档： [详细文档、常见问题](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG)
 > - 下载地址：&nbsp;[GitHub](https://github.com/liqiang-xxfy/fly-cursor-free/releases/latest) &nbsp; [123云盘](https://www.123865.com/s/uY80Td-AtUh) &nbsp;&nbsp; [百度网盘](https://pan.baidu.com/s/1UPg4D4VO_F_47Fl1A7oc8g?pwd=9gmc)
 
 ## 核心功能
