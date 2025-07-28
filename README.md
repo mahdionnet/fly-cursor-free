@@ -43,7 +43,7 @@ tempmail临时邮箱 或 qq邮箱 任选一个
 - 需要一个域名，用于生成注册用的无限邮箱地址（例如 `random_string@yourdomain.com`）。
   建议自己购买域名，[阿里云低价域名3元左右/年](https://wanwang.aliyun.com/domain?spm=5176.30275541.J_ZGek9Blx07Hclc3Ddt9dg.2.6d242f3dOjUe0y&scm=20140722.S_card@@%E4%BA%A7%E5%93%81@@3417315._.ID_card@@%E4%BA%A7%E5%93%81@@3417315-RL_%E5%9F%9F%E5%90%8D-LOC_2024SPSearchCard-OR_ser-PAR1_213e367317506646568403729e0b4e-V_4-RE_new5-P0_0-P1_0)
 
-##### 无限邮箱配置教程：[Bilibili - Cloudflare 邮箱转发服务配置教程](https://www.bilibili.com/opus/951275934028136469)
+##### 无限邮箱配置教程：[Cloudflare 邮箱转发服务配置教程](https://docs.qq.com/aio/DUGd6V2t5WUVoQUdG?p=Zbo4uw0V0wGxKiybuT7EEX)
 
 ## 💰 赞赏
 
