@@ -7,7 +7,7 @@
 
 
 > 🚀 **FlyCursor** 让你 Cursor Pro试用永不断，批量注册本地账号+共享账号池，一秒换号，无限次数高级模型。
-> - Claude3.7、Gemini 2.5pro、o3 等模型需要梯子才能使用。
+> - Claude 4 、Gemini 2.5pro、o3 等模型需要梯子才能使用。
 > - 支持最新版 `Cursor 1.2.4`
 > - 暂时只支持 `Windows` 系统
 > - qq交流群： [1002388537](https://qun.qq.com/universal-share/share?ac=1&authKey=ZpKpMm4QdN1I2eWzqZYinybEpN1PfyrUlmgA01ZG0mAVSUVg0fWQWngzBnl7jG79&busi_data=eyJncm91cENvZGUiOiIxMDAyMzg4NTM3IiwidG9rZW4iOiJNR0hENmlHS0xHSzdmMm0xRmZSNjJpczdJMWl5WkhrNWI0SHVQOUZhemNuSTcvN0VQNUNSZVZ4Ty9kbU1KSFBWIiwidWluIjoiMzY2Mzg1NjQyOSJ9&data=ghmRHANkTOdaEFfbxNKWtfgZ5emKN2-RQ-FKgFvWnukdfbup51jtrgQKlbPS_2O-0QHYmuRUd7her7DzYjH43A&svctype=4&tempid=h5_group_info)
